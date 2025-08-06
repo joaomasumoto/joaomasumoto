@@ -8,6 +8,9 @@
 </div>
 
 ###
+<img align="left" src="https://cdn.discordapp.com/attachments/900183354945699872/1402453017747525632/a2axix.gif?ex=6893f7a7&is=6892a627&hm=95fb4c981113784b374681d1f9b59869f650a03959e9bde20608cc1dcc3fe101&" height="120" style="margin-right: 20px;" />
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -41,8 +44,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-<img align="left" src="https://cdn.discordapp.com/attachments/900183354945699872/1402453017747525632/a2axix.gif?ex=6893f7a7&is=6892a627&hm=95fb4c981113784b374681d1f9b59869f650a03959e9bde20608cc1dcc3fe101&" style="height: 100px; width: auto;" />
 
 ###
