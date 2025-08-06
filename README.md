@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="125" src="https://cdn.discordapp.com/attachments/900183354945699872/1402453017747525632/a2axix.gif?ex=6893f7a7&is=6892a627&hm=95fb4c981113784b374681d1f9b59869f650a03959e9bde20608cc1dcc3fe101&"  />
+<img align="left" height="125" src="https://cdn.discordapp.com/attachments/900183354945699872/1402453017747525632/a2axix.gif?ex=6893f7a7&is=6892a627&hm=95fb4c981113784b374681d1f9b59869f650a03959e9bde20608cc1dcc3fe101&"  />
 
 ###
 
@@ -38,22 +38,12 @@
   <a href="https://discord.com/users/220326777451446272" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="joaomasumoto.dev@gmail.com" target="_blank">
+  <a href="mailto:joaomasumoto.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/joao-masumoto" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-masumoto/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaomasumoto/joaomasumoto/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaomasumoto/joaomasumoto/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaomasumoto/joaomasumoto/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
