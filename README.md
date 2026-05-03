@@ -1,48 +1,74 @@
-<h2 align="left">Hi 👋! My name is João and I'm a Java Developer, from Brazil</h2>
+<h1 align="center">Hi, I'm João Masumoto 👋</h1>
 
-###
+<p align="center">
+  Java backend student focused on Spring Boot, REST APIs, and relational databases.
+  <br>
+  Looking for an internship or junior developer opportunity.
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaomasumoto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaomasumoto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
-<img align="right" src="https://cdn.discordapp.com/attachments/900183354945699872/1402453017747525632/a2axix.gif?ex=6893f7a7&is=6892a627&hm=95fb4c981113784b374681d1f9b59869f650a03959e9bde20608cc1dcc3fe101&" height="120" style="margin-right: 20px;" />
+## About Me
 
-###
+I'm a backend development student from Brazil, currently building a solid foundation in Java, Spring Boot, object-oriented programming, REST APIs, and relational databases.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-</div>
+I'm focused on writing clean, organized, and maintainable code while learning how real-world backend applications are designed and built.
 
-###
+Currently learning and working with:
+
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL and MySQL
+- Git and GitHub
+- Layered architecture and backend fundamentals
+
+---
+
+## Tech Stack
 
 <div align="left">
-  <a href="https://www.instagram.com/joao.masumoto/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/220326777451446272" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:joaomasumoto.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" alt="Spring" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="38" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="38" alt="IntelliJ IDEA" />
+</div>
+
+---
+
+## GitHub Stats
+
+
+
+---
+
+## What I'm Looking For
+
+I'm looking for my first professional opportunity in software development, mainly as a Java backend intern or junior developer.
+
+I want to contribute to real projects, learn from experienced developers, and keep improving by building useful, well-structured applications.
+
+---
+
+## Contact
+
+<div align="left">
+  <a href="mailto:joaomasumoto.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/joao-masumoto/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/joao.masumoto/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
-
-###
