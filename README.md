@@ -3,6 +3,8 @@
 <p align="center">
   Java backend student focused on Spring Boot, REST APIs, and relational databases.
   <br>
+  Also practicing Python, algorithms, and SQL.
+  <br>
   Looking for an internship or junior developer opportunity.
 </p>
 
@@ -10,16 +12,17 @@
 
 ## About Me
 
-I'm a backend development student from Brazil, currently building a solid foundation in Java, Spring Boot, object-oriented programming, REST APIs, and relational databases.
+I'm a backend development student from Brazil, currently building a solid foundation in Java, Spring Boot, object-oriented programming, REST APIs, Python, SQL, and relational databases.
 
 I'm focused on writing clean, organized, and maintainable code while learning how real-world backend applications are designed and built.
 
 Currently learning and working with:
 
 - Java
+- Python
 - Spring Boot
 - REST APIs
-- PostgreSQL and MySQL
+- SQL with PostgreSQL and MySQL
 - Git and GitHub
 - Layered architecture and backend fundamentals
 
@@ -29,6 +32,8 @@ Currently learning and working with:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" alt="Spring" />
   <img width="12" />
@@ -42,6 +47,13 @@ Currently learning and working with:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="38" alt="IntelliJ IDEA" />
 </div>
+
+---
+
+## Study Repositories
+
+- [Java Fundamentals Exercises](https://github.com/joaomasumoto/java-fundamentos-exercicios) - Java fundamentals, object-oriented programming, exceptions, and algorithms.
+- [LeetCode Python and SQL Exercises](https://github.com/joaomasumoto/leetcode-python-exercicios) - Python algorithms and introductory SQL queries organized as a study path.
 
 ---
 
