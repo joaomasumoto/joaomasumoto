@@ -65,9 +65,9 @@ Currently learning and working with:
 
 ## What I'm Looking For
 
-I'm looking for my first professional opportunity in software development, mainly as a Java backend intern or junior developer.
+I'm looking for my first professional opportunity in software development, mainly as a Java backend intern or junior developer, while also being open to opportunities involving Python.
 
-I want to contribute to real projects, learn from experienced developers, and keep improving by building useful, well-structured applications.
+I want to contribute to real projects, learn from experienced developers, and keep improving my Java, Python, and backend development skills by building useful, well-structured applications.
 
 ---
 
